@@ -1,0 +1,126 @@
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 17px 10%;
+    background-color: #eeeff7;
+}
+
+li {
+    list-style:none !important;
+    color:#FFF;
+    padding:10px;
+    font-size:20px;
+    text-decoration:none;
+    }
+    nav ul {
+    background-color:#080808;
+    padding:0;
+    margin:0;
+    }
+    nav ul li {
+    list-style: none;
+    line-height:44px;
+    float:left;
+    
+    }
+    nav ul li a {
+    color:rgb(8, 8, 8);
+    padding:10px;
+    font-size:20px;
+    text-decoration:none;
+    }
+    li a:hover {
+        border-bottom:3px rgb(248, 244, 12) solid;
+        }
+}
+.logo{
+    cursor: pointer;
+    margin-right: 5px;
+}
+footer{
+    display: flex;
+    padding: 25px 10%;
+    background-color: #FFF;
+    color: #080808;
+    width: 90%;
+    bottom: 0;
+    font-size: 16px;
+}
+.am{
+    float:left;
+}
+.contenant {
+    border: rgb(190, 186, 180);
+   
+    position: relative;
+    text-align: center;
+    color: rgb(19, 18, 18);
+  }
+  
+  .texte_centrer {
+    background-color: hsl(232, 74%, 85%);
+    margin-top: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .texte {
+    background-color: hsl(233, 50%, 94%);
+    margin-top: 200px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+  }
+  .doff{
+      background-color: rgb(240, 104, 178);
+  ;
+  }
+  .mati{
+      background-color: yellow;
+      padding: 10px;
+     
+  }
+  .dou{
+      background-color: tomato;
+    
+
+     
+  }
+  .dop{
+      background-color: turquoise;
+  }
+  .you{
+      background-color: violet;
+  }
+  .flotte {
+    float:left;
+    margin-left: 100px;
+    line-height: 1.3333;
+    margin-bottom: 1em;
+    padding: 10px 10px 10px;
+    border-bottom: 1px solid rgb(221,221,221);
+    }
+    .container {
+        background-color: rgb(117, 113, 113)
+        margin-left: 90px;
+        height: auto;
+        margin-right: auto;
+        margin-left: auto;
+        padding-top: 50px;
+    }
+    #ba{
+        margin-left: 600px
+
+        }
+        .bin{
+         background-color: hsl(232, 74%, 85%);
+    margin-top: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+        }
